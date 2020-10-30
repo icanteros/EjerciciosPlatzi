@@ -1,0 +1,13 @@
+C:\Users\ivanc\source\repos\EjercicioPlatzi\EjercicioPlatzi\bin\Debug\netcoreapp3.1\EjercicioPlatzi.exe
+C:\Users\ivanc\source\repos\EjercicioPlatzi\EjercicioPlatzi\bin\Debug\netcoreapp3.1\EjercicioPlatzi.deps.json
+C:\Users\ivanc\source\repos\EjercicioPlatzi\EjercicioPlatzi\bin\Debug\netcoreapp3.1\EjercicioPlatzi.runtimeconfig.json
+C:\Users\ivanc\source\repos\EjercicioPlatzi\EjercicioPlatzi\bin\Debug\netcoreapp3.1\EjercicioPlatzi.runtimeconfig.dev.json
+C:\Users\ivanc\source\repos\EjercicioPlatzi\EjercicioPlatzi\bin\Debug\netcoreapp3.1\EjercicioPlatzi.dll
+C:\Users\ivanc\source\repos\EjercicioPlatzi\EjercicioPlatzi\bin\Debug\netcoreapp3.1\EjercicioPlatzi.pdb
+C:\Users\ivanc\source\repos\EjercicioPlatzi\EjercicioPlatzi\obj\Debug\netcoreapp3.1\EjercicioPlatzi.AssemblyInfoInputs.cache
+C:\Users\ivanc\source\repos\EjercicioPlatzi\EjercicioPlatzi\obj\Debug\netcoreapp3.1\EjercicioPlatzi.AssemblyInfo.cs
+C:\Users\ivanc\source\repos\EjercicioPlatzi\EjercicioPlatzi\obj\Debug\netcoreapp3.1\EjercicioPlatzi.csproj.CoreCompileInputs.cache
+C:\Users\ivanc\source\repos\EjercicioPlatzi\EjercicioPlatzi\obj\Debug\netcoreapp3.1\EjercicioPlatzi.dll
+C:\Users\ivanc\source\repos\EjercicioPlatzi\EjercicioPlatzi\obj\Debug\netcoreapp3.1\EjercicioPlatzi.pdb
+C:\Users\ivanc\source\repos\EjercicioPlatzi\EjercicioPlatzi\obj\Debug\netcoreapp3.1\EjercicioPlatzi.genruntimeconfig.cache
+C:\Users\ivanc\source\repos\EjercicioPlatzi\EjercicioPlatzi\obj\Debug\netcoreapp3.1\EjercicioPlatzi.csprojAssemblyReference.cache
